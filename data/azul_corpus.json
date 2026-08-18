@@ -1,0 +1,8 @@
+[
+ {"id":"AZUL-CORE-001","product":"Azul Platform Core","url":"https://www.azul.com/products/core/","text":"Azul Core provides TCK-verified OpenJDK builds, commercial support, quarterly security updates, and legal indemnification. Azul describes it as a one-to-one replacement for Oracle Java SE."},
+ {"id":"AZUL-CORE-002","product":"Azul Platform Core","url":"https://www.azul.com/products/core/","text":"Azul Core is positioned for enterprises needing supported Java runtimes, broad platform coverage, security updates, and long-term support."},
+ {"id":"AZUL-PRIME-001","product":"Azul Platform Prime","url":"https://www.azul.com/products/prime/faq/","text":"Azul Prime is a commercial high-performance Java platform distribution based on OpenJDK, with an enhanced JVM intended for application performance, responsiveness, and efficiency."},
+ {"id":"AZUL-PRIME-002","product":"Azul Platform Prime","url":"https://www.azul.com/tutorials/why-is-prime-different/","text":"Azul states that Platform Prime uses a modified JVM to target lower latency and higher throughput for Java workloads."},
+ {"id":"AZUL-IC-001","product":"Azul Intelligence Cloud","url":"https://docs.azul.com/intelligence-cloud/about/what-is-azul-intelligence-cloud","text":"Azul Intelligence Cloud uses production Java runtime data to provide JVM and code inventory and to identify unused code."},
+ {"id":"AZUL-IC-002","product":"Azul Intelligence Cloud","url":"https://www.azul.com/products/intelligence-cloud/","text":"Intelligence Cloud is positioned for Java estate discovery, Oracle Java migration and compliance, application modernization, and identifying dead or unused code."}
+]

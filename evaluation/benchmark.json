@@ -1,0 +1,20 @@
+[
+ {"company":"Atlas Bank","text":"Our payments team operates Java and Spring Boot services. Engineers focus on reducing p99 latency.","expected_signals":["Java runtime evidence","Performance or latency pressure"],"expected_product":"Azul Platform Prime"},
+ {"company":"Beacon Retail","text":"We are migrating licensed Oracle Java workloads to OpenJDK across store systems.","expected_signals":["Java runtime evidence","Java licensing or migration pressure"],"expected_product":"Azul Platform Core"},
+ {"company":"Cedar Health","text":"The modernization group is creating a JVM inventory and identifying unused code.","expected_signals":["Java runtime evidence","Java estate visibility or modernization need"],"expected_product":"Azul Intelligence Cloud"},
+ {"company":"Delta Media","text":"We publish video and design content using Python and Go.","expected_signals":[],"expected_product":null},
+ {"company":"Evergreen Travel","text":"Our Java booking platform requires consistent low latency at peak demand.","expected_signals":["Java runtime evidence","Performance or latency pressure"],"expected_product":"Azul Platform Prime"},
+ {"company":"Fjord Energy","text":"The team supports OpenJDK and needs long-term security updates.","expected_signals":["Java runtime evidence"],"expected_product":"Azul Platform Core"},
+ {"company":"Granite SaaS","text":"Application modernization includes finding dead code in production Java services.","expected_signals":["Java runtime evidence","Java estate visibility or modernization need"],"expected_product":"Azul Intelligence Cloud"},
+ {"company":"Harbor Logistics","text":"Hiring data engineers with SQL and Rust experience.","expected_signals":[],"expected_product":null},
+ {"company":"Ion Exchange","text":"Oracle Java licensing and JDK migration are priorities for our platform group.","expected_signals":["Java runtime evidence","Java licensing or migration pressure"],"expected_product":"Azul Platform Core"},
+ {"company":"Juniper Games","text":"JVM garbage collection pauses affect real-time multiplayer responsiveness.","expected_signals":["Java runtime evidence","Performance or latency pressure"],"expected_product":"Azul Platform Prime"},
+ {"company":"Keystone Gov","text":"We maintain supported Java runtimes and quarterly security patching.","expected_signals":["Java runtime evidence"],"expected_product":"Azul Platform Core"},
+ {"company":"Lumen Market","text":"Our website uses React and a serverless TypeScript stack.","expected_signals":[],"expected_product":null},
+ {"company":"Meridian Insurance","text":"The Java estate modernization team needs JVM inventory and technical debt visibility.","expected_signals":["Java runtime evidence","Java estate visibility or modernization need"],"expected_product":"Azul Intelligence Cloud"},
+ {"company":"Northstar Telecom","text":"High-throughput Java services have strict latency requirements.","expected_signals":["Java runtime evidence","Performance or latency pressure"],"expected_product":"Azul Platform Prime"},
+ {"company":"Orchid Foods","text":"Our careers page lists roles in finance, sales, and warehouse operations.","expected_signals":[],"expected_product":null},
+ {"company":"Prairie Cloud","text":"We operate Kotlin on the JVM and are evaluating application performance.","expected_signals":["Java runtime evidence","Performance or latency pressure"],"expected_product":"Azul Platform Prime"},
+ {"company":"Quartz Systems","text":"OpenJDK migration is intended to reduce Oracle Java licensing exposure.","expected_signals":["Java runtime evidence","Java licensing or migration pressure"],"expected_product":"Azul Platform Core"},
+ {"company":"Redwood Tech","text":"We use production runtime data to locate unused Java code during modernization.","expected_signals":["Java runtime evidence","Java estate visibility or modernization need"],"expected_product":"Azul Intelligence Cloud"}
+]
